@@ -22,4 +22,9 @@
     <string name="loading">Loading...</string>
     <string name="title_activity_message_demo">MessageDemo</string>
 
+    <string name="load_users">Getting users list</string>
+    <string name="receiver">Enter name of receiver</string>
+
+    <string name="sending">Sending message</string>
+
 </resources>
