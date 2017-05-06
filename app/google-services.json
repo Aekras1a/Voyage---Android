@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "44082584238",
+    "firebase_url": "https://voyage-6fa20.firebaseio.com",
+    "project_id": "voyage-6fa20",
+    "storage_bucket": "voyage-6fa20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44082584238:android:960af6c75bc59aa0",
+        "android_client_info": {
+          "package_name": "com.cet.thabjeel.traveller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44082584238-6s9kpqoncehn9rqgirerhn6v6dp9d7u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_rCUymdv2osPBZUIEiUPj3eeCdjePlMA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
